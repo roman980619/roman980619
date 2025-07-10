@@ -69,16 +69,6 @@ Building robust backend architecture and seamless full-stack solutions with clea
 - **Clean Code**: Maintainable, well-documented solutions
 - **Full Stack Vision**: Backend expertise with frontend understanding
 
----
-
-## 📊 GitHub Stats
-
-![Roman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in challenging projects and meaningful collaborations. Whether you need to design clean backend architecture, integrate third-party services, or develop fast, responsive full-stack platforms, let's talk about how I can help bring your vision to life.
